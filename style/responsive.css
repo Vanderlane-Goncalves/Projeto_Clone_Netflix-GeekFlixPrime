@@ -24,4 +24,8 @@
         display: flex;
         width: 50%;
     }
+    header .container .nav .a{
+        display: flex;
+        width: 80%;
+    }
 }
