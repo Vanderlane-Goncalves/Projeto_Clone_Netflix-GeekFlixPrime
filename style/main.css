@@ -149,5 +149,6 @@ header nav a:hover{
 
 .nome-carrossel{
     font-size: 30px;
-    background-image: url(../img/60ae8c771b9b1.png);
+    background-color: rgba(0,0,0,.50);
+    border: none;
 }
